@@ -1,0 +1,48 @@
+<Alloy>
+	<Window class="window">
+		<ScrollView bottom="45" top="15">
+				<Label>Lorem ipsum dolor sit amet, est salutatus dissentiunt in, 
+					purto albucius definitiones no usu, quis convenire duo ei. 
+					At eius deleniti constituam pri. Pri nobis antiopam ut, qui 
+					ne ferri fierent explicari. Ex qui putant inermis, ad meliore 
+					insolens qualisque pri, an pro purto noster nostrud. Mea quodsi 
+					nostrum copiosae ei, ei posse assum usu, fastidii indoctum cu duo.
+					
+					Nostro gubergren signiferumque an pri. In vis facete urbanitas, quo 
+					falli dolores lucilius in. Pro putent labore laoreet ei, admodum corrumpit 
+					vis ad. Sed legendos intellegat voluptaria id, tollit labitur iuvaret te quo, 
+					at eirmod aeterno quo. Ea vero atqui his, sit libris sanctus voluptatibus eu, 
+					dico cibo animal qui ne.
+
+					Ad sint justo meliore eam. Adipisci eleifend ut duo. Euismod iudicabit sea ea, 
+					sea inani graeco inermis ad, mei et novum vidisse. At ferri soleat sed. Mei legere 
+					verear eloquentiam ne.
+
+					Ex velit molestie mel, suas signiferumque id eos. Ea timeam epicuri pri, 
+					id possim diceret moderatius has, sea dicam iracundia reprimique an. Maiorum epicurei 
+					appetere per id, id gloriatur incorrupte usu, esse purto eam cu. Cu duo magna omnium 
+					lobortis.
+
+					Mea no reque saperet admodum, an wisi conceptam ius. Ius eu choro vidisse, id sea probo 
+					maiorum. Eos sumo everti minimum te, ius virtute eleifend cu. Quo no enim efficiendi,
+					his ne ubique ignota regione, no ius noster appareat placerat. No congue adipisci pro, 
+					eos sale graeci ea.</Label>
+
+		</ScrollView>
+		<View id="footerToolbar">
+			<View id="clickMe" class="button" onClick="clickMe">
+				<ImageView image="/images/star.png" height="Ti.UI.SIZE" width="Ti.UI.SIZE" />
+				<Label id="starText" class="toolButtonTitle"> Click Me</Label>
+			</View>
+			<View id="popUp" class="button" onClick="popUp">
+				<ImageView image="/images/heart.png" height="Ti.UI.SIZE" width="Ti.UI.SIZE" />
+				<Label id="heartText" class="toolButtonTitle"  >Pop Up</Label>
+			</View> 
+			<View id="extraYay" class="button" onClick="extraYay">
+				<ImageView image="/images/circle.png" height="Ti.UI.SIZE" width="Ti.UI.SIZE" />
+				<Label id="circleText" class="toolButtonTitle"  >Extra</Label>
+			</View>
+
+		</View>
+	</Window>
+</Alloy>

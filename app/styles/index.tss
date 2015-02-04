@@ -1,0 +1,86 @@
+".window": {
+	backgroundColor:"white",
+	
+	/* layering the views */
+	layout: "composite"
+}
+
+"#footerToolbar": {
+	/* Make toolbar stick to bottom
+	 */
+	bottom: 0,
+	
+	/* Spans the screen */
+	width: '100%',
+	
+	/* Set the layout to horizontal
+	 * so that the contens will be
+	 * laid-out across the screen
+	 */
+    layout: 'horizontal',
+    
+    /* iOS toolbar is approximately
+       this height. */
+    height: '45dp',
+    
+    /* grey-ish */
+    backgroundColor: "#f8f8f8",
+    
+ 	borderColor: "#CCCCCC",
+}
+
+/*
+ * Button layout configuration
+ */
+".button" : {
+	top: '5dp',
+	
+	width: '50dp',
+	height: '40dp',
+	
+	/* contents will 
+	 * be stacked up
+	 */
+	layout: "vertical"
+	
+}
+
+/* Give left margins to button
+ * groups
+ */
+"#clickMe" : {
+	left: '5dp'
+}
+
+"#popUp" : {
+	left: '10dp'
+}
+
+"#extraYay" : {
+	left: '10dp'
+}
+
+/*
+ * Toolbar button text
+ */
+".toolButtonTitle" : {
+	font: {
+		fontSize: 10,
+		fontWeight: "bold"
+	},
+	textAlign: "center",
+	color: "#5b57a6"
+}
+
+"#starText" : {
+	color: "#4ca5cd"
+}
+
+"#heartText" : {
+	color: "#f37121"
+}
+
+"#circleText" : {
+	color: "#649369"
+}
+
