@@ -9,3 +9,4 @@ option menus. So I decided to experiment and I was able to make a toolbar in Tit
 stays-put at the bottom of the screen. And, it works for both iOS and Android no problem. 
 Now I'm sharing it.
 
+<a href="http://junerockwell.com/how-to-make-custom-toolbar-in-titanium-that-stays-in-the-bottom/">Tutorial for this project</a>
