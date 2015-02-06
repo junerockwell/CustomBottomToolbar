@@ -3,10 +3,10 @@
     <id>com.junerockwell.CustomBottomToolbar</id>
     <name>CustomBottomToolbar</name>
     <version>1.0</version>
-    <publisher>rockwell</publisher>
+    <publisher>June Rockwell</publisher>
     <url>http://junerockwell.com</url>
     <description>undefined</description>
-    <copyright>2015 by rockwell</copyright>
+    <copyright>2015 by June Rockwell</copyright>
     <icon>appicon.png</icon>
     <fullscreen>false</fullscreen>
     <navbar-hidden>false</navbar-hidden>
